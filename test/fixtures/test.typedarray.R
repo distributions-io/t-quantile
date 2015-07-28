@@ -2,7 +2,7 @@ options( digits = 16 )
 library( jsonlite )
 
 
-v = 1
+v = 16
 probs = seq( 0, 1, 0.01 )
 y = qt( probs, v )
 

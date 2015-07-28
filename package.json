@@ -36,6 +36,7 @@
   },
   "dependencies": {
     "compute-array-constructors": "^1.0.0",
+    "compute-signum": "^2.0.0",
     "dstructs-matrix": "^2.0.0",
     "utils-deep-get": "^1.0.0",
     "utils-deep-set": "^1.0.1",
@@ -58,7 +59,7 @@
     "istanbul": "^0.3.0",
     "jshint": "2.x.x",
     "jshint-stylish": "2.x.x",
-	"validate.io-finite": "^1.0.0"
+    "validate.io-finite": "^1.0.0"
   },
   "license": "MIT"
 }

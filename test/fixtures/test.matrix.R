@@ -1,7 +1,7 @@
 options( digits = 16 )
 library( jsonlite )
 
-v = 1
+v = 5
 probs = 0:24 / 25
 y = qt( probs, v )
 
